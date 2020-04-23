@@ -9,14 +9,14 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.js"></script>
     <style type="text/css">
         .wrapper{
-            width: 650px;
+            width: 800px;
             margin: 0 auto;
         }
         .page-header h2{
             margin-top: 0;
         }
         table tr td:last-child a{
-            margin-right: 15px;
+            margin-right: 18px;
         }
     </style>
     <script type="text/javascript">
@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-                        <h2 class="pull-left">Employees Details</h2>
+                        <h2 class="pull-left">Employee Details</h2>
                         <a href="create.php" class="btn btn-success pull-right">Add New Employee</a>
                     </div>
                     <?php
