@@ -2,7 +2,7 @@
 SETTING UP SERVER
 To work on your local system you need to have PHP & MySQL installed on your system. So, the first step is to have a server to run our application. Install “XAMPP” because It installs both PHP & MySQL.
 
-Run your server, go to your “htdocs” Folder inside “XAMPP” Forder & create a new folder there as “crud-application”.
+Run your server, go to your “htdocs” Folder inside “XAMPP” Folder & create a new folder there as “crud-application”.
 
 CREATING DATABASE
 It’s time to create a database for the Web Application.
