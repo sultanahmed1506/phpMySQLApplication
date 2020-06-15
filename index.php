@@ -1,4 +1,4 @@
-<!-- Author : Sultan Ahmed.. -->
+<!-- Auth: Sultan Ahmed.. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
